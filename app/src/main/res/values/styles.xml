@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.WaterUsageEstimator" />
+
+    <!-- Custom Button Style -->
+    <style name="AppTheme.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:textColor">@color/md_theme_onPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

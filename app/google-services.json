@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869825543664",
+    "project_id": "waterusageestimator",
+    "storage_bucket": "waterusageestimator.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869825543664:android:0e6661e5de261d73e43135",
+        "android_client_info": {
+          "package_name": "com.example.waterusageestimator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZHUz2UMnJDhmRecoochJ36KN2CQdECo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WaterUsageEstimator</string>
+    <string name="todo">TODO</string>
+    <string name="back">Back</string>
+    <string name="water_usage_calculator">Water Usage Calculator</string>
+    <string name="household_details">Household Details</string>
+    <string name="people_count">Number of People</string>
+    <string name="shower_length">Average Shower Length (minutes)</string>
+    <string name="calculate">Calculate</string>
+    <string name="result_placeholder">Your estimated water usage will appear here.</string>
+</resources>
